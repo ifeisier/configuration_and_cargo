@@ -6,7 +6,7 @@ version = "0.0.1"
 edition = "2021"
 authors = ["ifeisier <ifeisier@hotmail.com>"]
 description = "快速创建 rumqttc 客户端."
-repository = "https://github.com/ifeisier/mqtt"
+repository = "https://github.com/ifeisier/configuration_and_cargo/tree/main/mqtt"
 license = "MIT"
 
 
